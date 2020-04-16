@@ -7,5 +7,10 @@
 # }
 
 def select_winner(passengers)
-  # add the code snippet here!
+  passenges.each do |key, value| 
+    if suite == suite_a &&
+      name.starts_with?("A")
+      winnder = name
+    end
+  end 
 end
