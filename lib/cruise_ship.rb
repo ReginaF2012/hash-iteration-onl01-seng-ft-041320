@@ -12,6 +12,6 @@ def select_winner(passengers)
       name.start_with?("A")
       winner = name
     end
+    winner
   end 
-  winner
 end
